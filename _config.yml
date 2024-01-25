@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rama Al Widian"
+  name   : "@ramawid"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Interactive Media student with interests in digital art, virtual reality, and game development."
   links:

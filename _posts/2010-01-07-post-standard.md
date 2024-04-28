@@ -52,4 +52,6 @@ Moreover, the utility of computer-assisted analysis is demonstrated in providing
 Overall, this exploration not only sheds light on the varied experiences of women but also underscores the importance of embracing diversity and complexity within discussions of gender equality and empowerment.
 
 
+**Ready for grading:D**
+
 

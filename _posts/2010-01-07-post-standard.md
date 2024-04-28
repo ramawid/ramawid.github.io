@@ -13,9 +13,9 @@ tags:
 
 I chose using 3 different prompts regarding women in chatGPT. My three prompts circulated around women in different persepectives, body positivity, women in STEM, and the #MeToo movement.
 
-**Prompt I:** Explore the underrepresentation of women in STEM in an essay format
+**Prompt I:** Explore the underrepresentation of women in STEM in an essay format.
 
-**Prompt II:** Write an essay that explores the impact of societal beauty standards on women's self-esteem and mental health
+**Prompt II:** Write an essay that explores the impact of societal beauty standards on women's self-esteem and mental health.
 
 **Prompt III:** Explore the rise of momentum in 2017 with the #MeToo hashtag on social media in an essay.
 
@@ -36,6 +36,7 @@ Similarly, the discourse surrounding the #MeToo movement encompassed narratives 
 In essence, the Voyant Tools analysis underscores the necessity of nuanced examination when exploring gender-related narratives. Such an approach facilitates a deeper understanding of the heterogeneous landscape of feminist discourse, recognizing the multiplicity of voices, concerns, and objectives within the broader framework of women's rights and empowerment.
 
 Through doing this analysis I finalized that computer-assisted analysis offers a faster and more systematic approach to examining larger bodies of text, providing insights that may not be readily apparent through traditional linear reading. Personally I would use this for larger files, not articles or shorter essays as the data might not be as accurate. In terms of visualization of textual data, I thought it was extremely useful as it allowed me to gain a deeper look on the text. Combined with my background information on all 3 topics, the takeaways were sufficent in terms of time. While a linear read of each text is theoretically possible, it may be impractical within a given timeframe, making computer-assisted analysis a valuable tool for efficiently extracting meaningful insights from large text corpora.
+
 ### Part III: Corpus Analysis
 
 <iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=01884f9c133ee11017abca62325711c3&visible=25&view=Cirrus'></iframe>

@@ -1,5 +1,5 @@
 ---
-title: "Assignment #2: working with a Corpus"
+title: "Assignment #2: Working With A Corpus"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -43,13 +43,13 @@ In essence, the Voyant Tools analysis underscores the necessity of nuanced exami
 Through doing this analysis I finalized that computer-assisted analysis offers a faster and more systematic approach to examining larger bodies of text, providing insights that may not be readily apparent through traditional linear reading. Personally I would use this for larger files, not articles or shorter essays as the data might not be as accurate. In terms of visualization of textual data, I thought it was extremely useful as it allowed me to gain a deeper look on the text. Combined with my background information on all 3 topics, the takeaways were sufficent in terms of time. While a linear read of each text is theoretically possible, it may be impractical within a given timeframe, making computer-assisted analysis a valuable tool for efficiently extracting meaningful insights from large text corpora.
 
 ### Conclusion
-Your conclusion offers a comprehensive overview of the analysis conducted using Voyant Tools, highlighting the diverse nature of discourse surrounding women's experiences across different spheres. You effectively demonstrate how the three prompts, despite all focusing on women, yield distinct narratives and linguistic patterns when analyzed computationally.
+In conclusion, the exploration of women's experiences through the lenses of STEM participation, societal beauty standards, and the #MeToo movement reveals a multifaceted landscape of gender-related discourse. Each essay, while centered on women, delves into distinct aspects of their experiences, highlighting different challenges, narratives, and priorities.
 
-Your recognition of the importance of nuanced examination in understanding gender-related narratives adds depth to your conclusion. By acknowledging the multiplicity of voices and concerns within feminist discourse, you underscore the complexity of women's experiences and the varied approaches to addressing gender inequality.
+The analysis using Voyant Tools underscores the divergent nature of these discourses, revealing minimal shared vocabulary and linguistic patterns across the texts. This emphasizes the need for nuanced examination when addressing gender-related issues, recognizing the diverse voices and concerns within feminist discourse.
 
-Additionally, your reflection on the utility of computer-assisted analysis provides valuable insights into its benefits and limitations. You emphasize its efficiency in processing large bodies of text and extracting meaningful insights, while also acknowledging the importance of context and the potential limitations of the data accuracy.
+Moreover, the utility of computer-assisted analysis is demonstrated in providing efficient insights into large text corpora, facilitating a deeper understanding of complex social issues. While valuable, it's important to acknowledge the limitations of such tools and the need for contextual interpretation.
 
-Overall, your conclusion effectively synthesizes the findings of the analysis while offering thoughtful reflections on the significance of computational tools in examining complex social issues.
+Overall, this exploration not only sheds light on the varied experiences of women but also underscores the importance of embracing diversity and complexity within discussions of gender equality and empowerment.
 
 
 

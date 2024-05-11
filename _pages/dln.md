@@ -1,0 +1,6 @@
+___
+title: "Schedule S24"
+permalink: /schedule/
+author_profile: false
+___
+Please write a 750 word reflection on digital literacy from the perspective of a 20 year old university student majoring. Include strategies they might already know how to employ in their daily and academic lives for content creation, social interaction, as well as any platforms or software they use for research data management as well as data manipulation and analysis. Consider the different skill set in the room given all the interdisicplinary majors ( in different fields such as Computer Science, Interactive Media, Film and New Media, even Environmental Studies, Business and Marketing, Literature or Creative Writing). Reflect on how digital humanities might offer new horizons on what they are studying, how collaboration might offer new avenues for developing their “computational thinking” and how they can learn about new ways of approaching data and the world of AI. Offer critical reflection on your current abilities, what you are what you are discovering in the course as well as what kinds of new ways of thinking you would like to explore.

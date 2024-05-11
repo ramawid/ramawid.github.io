@@ -1,5 +1,13 @@
-___
-## Digital Literacy Narrative
+---
+title: "digital Narrative"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
 Digital literacy, once confined to the realm of technical proficiency, has now evolved into a multifaceted skill set essential for thriving in today's interconnected world. As a 20-year-old university student majoring in a field that intersects with digital humanities, my journey through the realm of digital literacy has been both enlightening and transformative. In an era where digital technologies permeate every aspect of our lives, from social interactions to academic pursuits, being digitally literate is no longer a luxury but a necessity.
 
 My daily routine seamlessly integrates various digital platforms and applications such as TikTok, Instagram, Adobe Suite, Canva, and CapCut. These tools have become indispensable for content creation, social interaction, and academic endeavors. Whether I'm crafting multimedia presentations for class projects, editing videos to share on social media, or designing posters for campus events, proficiency in these digital tools has become second nature. However, my exploration of digital literacy extends beyond technical proficiency; it delves into the deeper implications and transformative potential of digital technologies.

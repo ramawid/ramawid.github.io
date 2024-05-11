@@ -1,5 +1,13 @@
 ---
-# "Assignment #3: Spatial Data"
+title: "Assignment #3: Spatial Data"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
 
 ### Choosing a Source
 

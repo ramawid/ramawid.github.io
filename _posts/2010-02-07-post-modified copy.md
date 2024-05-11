@@ -1,5 +1,5 @@
 ---
-title: "digital Narrative"
+title: "Digital Narrative"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

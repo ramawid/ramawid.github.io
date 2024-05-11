@@ -1,8 +1,5 @@
 ___
-title: "Schedule S24"
-permalink: /schedule/
-author_profile: false
-___
+## Digital Literacy Narrative
 As a 20-year-old university student majoring in Interactive Media and Design, digital literacy is not just a skill I acquire; it's the very foundation upon which my academic and professional pursuits are built. In this dynamic field, the ability to harness digital tools and platforms is essential for creativity, communication, and innovation. Reflecting on my journey so far, I've come to appreciate the multifaceted nature of digital literacy and its profound impact on every aspect of my life.
 
 In the realm of content creation, my coursework has equipped me with a diverse array of skills and techniques. From designing user interfaces to crafting immersive experiences, I utilize software like Adobe XD, Unity, and Blender to bring my ideas to life. These tools empower me to explore new forms of storytelling and engage with audiences in interactive and meaningful ways. Whether I'm prototyping a mobile app, developing a virtual reality game, or creating a digital art installation, digital literacy enables me to express my creativity across various platforms and mediums.
